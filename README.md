@@ -6,3 +6,5 @@ the 'logfile.log' contains the loggings that were done.
 'test.csv' was the initial test file
 'train.use.csv' was the training dataset.
 There are two dataset because that was what I got from Kaggel but I concatenated them into work which i worked with. 
+Also, there were some of the codes that I blocked out becuase it takes too long to run so you can unblock those codes and test them out 
+(especially those for the classes for preprocessing etct. 
