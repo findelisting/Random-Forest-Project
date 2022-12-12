@@ -8,5 +8,5 @@ the 'logfile.log' contains the loggings that were done.
 There are two dataset because that was what I got from Kaggel but I concatenated them into work which i worked with. 
 Also, there were some of the codes that I blocked out becuase it takes too long to run so you can unblock those codes and test them out 
 (especially those for the classes for preprocessing etc.
-This is the link for acessing the testing dataset used: https://github.com/findelisting/pythonProject6/blob/master/test.csv
+This is the link for acessing the testing dataset used: https://github.com/findelisting/pythonProject6/blob/master/test.csv and this link for downloading the training dataset: https://github.com/findelisting/pythonProject6/blob/master/train.use.csv 
 
